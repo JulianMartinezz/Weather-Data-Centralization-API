@@ -6,6 +6,11 @@ This document provides a simplified explanation of a project that involves build
 The application is designed to consume weather data from various sources, including data about locations, wind, temperature, air quality, and cloudiness. It also maintains a record of API consumption by clients, who are identified using a unique email address and are charged for integration services at the end of each month.
 
 ## How to Test the Application
+  - [Locations](https://my-json-server.typicode.com/LCIV-2023/fake-weather/location)
+  - [Wind](https://my-json-server.typicode.com/LCIV-2023/fake-weather/wind)
+  - [Temperature](https://my-json-server.typicode.com/LCIV-2023/fake-weather/temperature)
+  - [Air Quality](https://my-json-server.typicode.com/LCIV-2023/fake-weather/air_quality)
+  - [Cloudiness](https://my-json-server.typicode.com/LCIV-2023/fake-weather/cloudiness)
 The application provides several endpoints that you can use to test its functionality:
 
 1. **Register a new consumer API:** This endpoint allows you to register a new consumer for the API. You will need to provide an email address and a preferred temperature unit.
