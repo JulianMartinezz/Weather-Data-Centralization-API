@@ -11,6 +11,7 @@ The application is designed to consume weather data from various sources, includ
   - [Temperature](https://my-json-server.typicode.com/LCIV-2023/fake-weather/temperature)
   - [Air Quality](https://my-json-server.typicode.com/LCIV-2023/fake-weather/air_quality)
   - [Cloudiness](https://my-json-server.typicode.com/LCIV-2023/fake-weather/cloudiness)
+
 The application provides several endpoints that you can use to test its functionality:
 
 1. **Register a new consumer API:** This endpoint allows you to register a new consumer for the API. You will need to provide an email address and a preferred temperature unit.
